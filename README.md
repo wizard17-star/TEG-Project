@@ -3,8 +3,6 @@
 This project is a **Question Answering (QA)** system built using the **RAG (Retrieval-Augmented Generation)** technique and powered by **Gemini AI**.  
 It combines information retrieval with AI-based text generation to provide more accurate and relevant answers.
 
----
-
 ## 🎯 Purpose
 
 To create an intelligent system that:
