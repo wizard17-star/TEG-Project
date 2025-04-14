@@ -140,5 +140,5 @@ Variation: Prompt-based with chain-of-thought reasoning.
 
 ## 📄 License
 
-This project is created by **Melike Nazlı Gürbüz** as part of a data science and NLP-focused portfolio. Feel free to explore and contribute!
+This project is created by **Serhat Aslan** as part of a data science and NLP-focused portfolio. Feel free to explore and contribute!
 >>>>>>> 3aabcc4 (Initial commit: Gemini RAG portfolio project)
