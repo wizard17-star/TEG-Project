@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🧠 Question Answering System using RAG with Gemini AI
 
 This project is a **Question Answering (QA)** system built using the **RAG (Retrieval-Augmented Generation)** technique and powered by **Gemini AI**.  
@@ -141,4 +140,3 @@ Variation: Prompt-based with chain-of-thought reasoning.
 ## 📄 License
 
 This project is created by **Serhat Aslan** as part of a data science and NLP-focused portfolio. Feel free to explore and contribute!
->>>>>>> 3aabcc4 (Initial commit: Gemini RAG portfolio project)
